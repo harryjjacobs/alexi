@@ -1,0 +1,4 @@
+mycroft-messagebus-client==0.8.1
+pyee==5.0.0
+six==1.14.0
+websocket-client==0.54.0
